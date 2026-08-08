@@ -1,113 +1,110 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
+AI
+artificial intelligence
+machine learning
+deep learning
+GPT
+LLM
+ChatGPT
+generative AI
+OpenAI
+AI agent
+AI automation
+AI startup
+one-person company
+OPC
+solopreneur
+solo founder
+indie hacker
+indie maker
+bootstrapped
+micro SaaS
+lifestyle business
+one-man business
+iOS
+iOS app
+iPhone app
+iPad app
+Swift
+SwiftUI
+App Store
+Apple developer
+mobile app
+app development
+indie iOS dev
+build in public
+#buildinpublic
+building in public
+public building
+transparent building
+indie dev
+product launch
+shipped
+MVP
+beta testing
+TestFlight
+App Store Connect
+revenue
+MRR
+ARR
+subscriber
+subscription
+in-app purchase
+monetization
+side project
+nocode
+lowcode
+cursor
+windsurf
+v0
+bolt
+replit
+replit agent
+lovable
+ai coding
 人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+机器学习
+深度学习
+大语言模型
+生成式AI
+AI智能体
+AI自动化
+AI创业
+一人公司
+个体创业者
+独立开发者
+独立创客
+微型SaaS
+自举创业
+生活方式创业
+个人开发者
+iOS应用
+iPhone应用
+iPad应用
+Swift开发
+SwiftUI开发
+苹果开发者
+移动应用
+应用开发
+公开构建
+透明开发
+#公开构建
+产品发布
+最小可行产品
+内测
+收入
+月经常性收入
+年经常性收入
+订阅
+内购
+变现
+副业
+无代码
+低代码
+AI编程
+Cursor编辑器
+Windsurf编辑器
+v0开发
+Bolt工具
+Replit平台
+Replit智能体
+lovable构建
